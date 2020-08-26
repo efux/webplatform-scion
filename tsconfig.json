@@ -14,7 +14,16 @@
       "path": "./tsconfig.spec.json"
     },
     {
-      "path": "./e2e/tsconfig.json"
+      "path": "./projects/shell/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/shell/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/app1/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/app1/tsconfig.spec.json"
     }
 ]
 }
